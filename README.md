@@ -18,4 +18,4 @@ Unlike conventional approaches that rely on a single feature selection technique
 * Filter methods (Mutual Information, ANOVA)
 * Wrapper methods (RFE)
 * Embedded methods (L1 regularization, Random Forest, XGBoost, LightGBM importance)
-* **Models Used:** LightGBM、XGBoost、Random Forest、LR、ANN、Hybrid MOdel
+* **Models Used:** LightGBM、XGBoost、Random Forest、LR、ANN、Hybrid Model
